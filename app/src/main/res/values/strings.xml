@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lab07</string>
+    <string name="but_insert">INSERT</string>
+    <string name="but_update">UPDATE</string>
+    <string name="but_select">SELECT</string>
+    <string name="but_delete">DELETE</string>
+    <string name="lab_key">KEY</string>
+    <string name="lab_value">VALUE</string>
+    <string name="txt_key" />
+    <string name="txt_value" />
+</resources>
